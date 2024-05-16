@@ -9,6 +9,8 @@
 - 無線部
 - ピアノの会
 - 謁見撲滅の会
+- test
+- changed
 
 一方リンク\
 [◯調](https://shinkan-2024.chofusai.jp/)\
